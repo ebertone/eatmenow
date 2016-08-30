@@ -1,2 +1,2 @@
-# fresh
-files for the fresh project!
+# eatmenow
+files for the eatmenow project!
